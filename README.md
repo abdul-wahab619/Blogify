@@ -1,5 +1,3 @@
-Certainly! Below is the updated README.md file with the added feature for deployment on Railway and a link to the deployed application:
-
 ```markdown
 # Blogify
 
