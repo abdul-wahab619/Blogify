@@ -1,34 +1,31 @@
-```markdown
 # Blogify
 
 Blogify is a simple web application for creating and managing blogs. It allows users to create, edit, and delete blog posts. The application is built using Node.js, Express.js, MongoDB for the backend, and EJS template for server-side rendering. Bootstrap is used for frontend design.
 
-![Blogify Interface]('./utils/interface.png')
+![Blogify Interface](./utils/interface.png)
 
 ## Features
 
-- User authentication: Users can sign up and log in to create and manage their blogs.
-- Create blog posts: Authenticated users can create new blog posts with a title, content, and optional cover image.
-- Edit and delete blog posts: Users can edit or delete their own blog posts.
-- View blog posts: All users can view the list of blog posts and read individual posts.
-- Deployment on Railway: Deploy your Blogify application easily on Railway platform.
+- **User authentication:** Users can sign up and log in to create and manage their blogs.
+- **Create blog posts:** Authenticated users can create new blog posts with a title, content, and optional cover image.
+- **Edit and delete blog posts:** Users can edit or delete their own blog posts.
+- **View blog posts:** All users can view the list of blog posts and read individual posts.
+- **Deployment on Railway:** Deploy your Blogify application easily on Railway platform.
 
 ## Installation
 
 1. Clone the repository:
-```
 
+```bash
 git clone https://github.com/abdul-wahab619/Blogify.git
 
-```
 
 2. Navigate to the project directory:
 
-```
+```bash
 
 cd Blogify
 
-```
 
 3. Install dependencies:
 
