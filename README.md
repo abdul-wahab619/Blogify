@@ -2,7 +2,7 @@
 
 Blogify is a simple web application for creating and managing blogs. It allows users to create, edit, and delete blog posts. The application is built using Node.js, Express.js, MongoDB for the backend, and EJS template for server-side rendering. Bootstrap is used for frontend design.
 
-![Blogify Interface](/utils/interface.png)
+![Blogify Interface](/utils/interface.jpg)
 
 ## Features
 
